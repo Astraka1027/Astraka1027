@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Amber Straka
 - 👀 I’m interested in Data Science and storytelling through visualization.
 - 🌱 I’m currently learning probability testing algorithms and Machine Learning techniques in Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: astraka1027@gmail.com
 - 😄 Pronouns: she/her
+- 
 - ⚡ Fun fact: I'm a Lego enthusiast. My office is filled with over 50 Lego builds, a hobby I picked up during the pandemic. My favorite sets are buildings ie. Home Alone house, Hocus Pocus house, Diagon Alley, etc.
 
 <!---
